@@ -1,4 +1,4 @@
-# Hi there, I'm Astr0 ! 👋
+# Hi there, I'm 𝓐𝓼𝓽𝓻𝓞 ! 👋
 
 ## 💫 About Me:
 <br>- 🔭 I’m currently working on Cosmos Obfuscator.<br>- 🌱 I’m currently learning python, c++ and Javascript.<br>- 💬 Ask me about how Cosmos Obfuscator work.<br>- ⚡ Fun fact: "Religion is the intuition of the universe."
