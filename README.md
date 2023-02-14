@@ -1,8 +1,5 @@
 ### Hi there, I'm Astr0 ! 👋
 
-<!--
-**Astr078/Astr078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
-
 # 💫 About Me:
 <br>- 🔭 I’m currently working on Cosmos Obfuscator.<br>- 🌱 I’m currently learning python, c++ and Javascript.<br>- 💬 Ask me about how Cosmos Obfuscator work.<br>- ⚡ Fun fact: "Religion is the intuition of the universe."
 
